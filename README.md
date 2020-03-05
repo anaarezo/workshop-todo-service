@@ -2,7 +2,7 @@
 > Short blurb about what your product does.
 
 [![NPM Version][npm-image]][npm-url]
-[![CircleCI Build Status](https://circleci.com/gh/circleci/circleci-docs.svg?style=shield)](https://circleci.com/gh/circleci/circleci-docs) 
+[![CircleCI Build Status](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs) 
 
 One to two paragraph statement about your product and what it does.
 
